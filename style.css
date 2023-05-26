@@ -1,0 +1,58 @@
+body {
+    font-family: Brandley Hand;
+    background-color: #171717;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+header a {
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 20px;
+    color: white;
+    background-color: #171717;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header a:hover {
+    font-size: 35px;
+    transition: 0.2s ease-in;
+}
+
+header p {
+    font-size: 40px;
+    text-align: center;
+}
+
+header img {
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    padding-left: 10px;
+}
+
+.logo {
+    float: left;
+    width: 40px;
+}
+
+h2 {
+    color: white;
+    font-size: 40px;
+}
+
+.history {
+    text-align: center;
+    height: 400px;
+    width: 500px;
+}
+
+.his_img {
+    width: 500px;
+    height: 400px;
+}
